@@ -1,0 +1,13 @@
+C:\Users\Fragnator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\JogoParaDoisJogadores.exe
+C:\Users\Fragnator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\JogoParaDoisJogadores.deps.json
+C:\Users\Fragnator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\JogoParaDoisJogadores.runtimeconfig.json
+C:\Users\Fragnator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\JogoParaDoisJogadores.runtimeconfig.dev.json
+C:\Users\Fragnator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\JogoParaDoisJogadores.dll
+C:\Users\Fragnator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\JogoParaDoisJogadores.pdb
+C:\Users\Fragnator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\JogoParaDoisJogadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fragnator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\JogoParaDoisJogadores.AssemblyInfoInputs.cache
+C:\Users\Fragnator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\JogoParaDoisJogadores.AssemblyInfo.cs
+C:\Users\Fragnator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\JogoParaDoisJogadores.csproj.CoreCompileInputs.cache
+C:\Users\Fragnator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\JogoParaDoisJogadores.dll
+C:\Users\Fragnator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\JogoParaDoisJogadores.pdb
+C:\Users\Fragnator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\JogoParaDoisJogadores.genruntimeconfig.cache

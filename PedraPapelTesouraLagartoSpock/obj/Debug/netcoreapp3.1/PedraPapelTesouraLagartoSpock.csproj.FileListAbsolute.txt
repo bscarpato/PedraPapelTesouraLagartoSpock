@@ -1,0 +1,13 @@
+C:\Users\Fragnator\source\repos\ConsoleApp1\PedraPapelTesouraLagartoSpock\bin\Debug\netcoreapp3.1\PedraPapelTesouraLagartoSpock.exe
+C:\Users\Fragnator\source\repos\ConsoleApp1\PedraPapelTesouraLagartoSpock\bin\Debug\netcoreapp3.1\PedraPapelTesouraLagartoSpock.deps.json
+C:\Users\Fragnator\source\repos\ConsoleApp1\PedraPapelTesouraLagartoSpock\bin\Debug\netcoreapp3.1\PedraPapelTesouraLagartoSpock.runtimeconfig.json
+C:\Users\Fragnator\source\repos\ConsoleApp1\PedraPapelTesouraLagartoSpock\bin\Debug\netcoreapp3.1\PedraPapelTesouraLagartoSpock.runtimeconfig.dev.json
+C:\Users\Fragnator\source\repos\ConsoleApp1\PedraPapelTesouraLagartoSpock\bin\Debug\netcoreapp3.1\PedraPapelTesouraLagartoSpock.dll
+C:\Users\Fragnator\source\repos\ConsoleApp1\PedraPapelTesouraLagartoSpock\bin\Debug\netcoreapp3.1\PedraPapelTesouraLagartoSpock.pdb
+C:\Users\Fragnator\source\repos\ConsoleApp1\PedraPapelTesouraLagartoSpock\obj\Debug\netcoreapp3.1\PedraPapelTesouraLagartoSpock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fragnator\source\repos\ConsoleApp1\PedraPapelTesouraLagartoSpock\obj\Debug\netcoreapp3.1\PedraPapelTesouraLagartoSpock.AssemblyInfoInputs.cache
+C:\Users\Fragnator\source\repos\ConsoleApp1\PedraPapelTesouraLagartoSpock\obj\Debug\netcoreapp3.1\PedraPapelTesouraLagartoSpock.AssemblyInfo.cs
+C:\Users\Fragnator\source\repos\ConsoleApp1\PedraPapelTesouraLagartoSpock\obj\Debug\netcoreapp3.1\PedraPapelTesouraLagartoSpock.csproj.CoreCompileInputs.cache
+C:\Users\Fragnator\source\repos\ConsoleApp1\PedraPapelTesouraLagartoSpock\obj\Debug\netcoreapp3.1\PedraPapelTesouraLagartoSpock.dll
+C:\Users\Fragnator\source\repos\ConsoleApp1\PedraPapelTesouraLagartoSpock\obj\Debug\netcoreapp3.1\PedraPapelTesouraLagartoSpock.pdb
+C:\Users\Fragnator\source\repos\ConsoleApp1\PedraPapelTesouraLagartoSpock\obj\Debug\netcoreapp3.1\PedraPapelTesouraLagartoSpock.genruntimeconfig.cache

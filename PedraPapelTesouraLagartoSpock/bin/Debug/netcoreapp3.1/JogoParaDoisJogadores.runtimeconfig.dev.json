@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Fragnator\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Fragnator\\.nuget\\packages"
+    ]
+  }
+}
